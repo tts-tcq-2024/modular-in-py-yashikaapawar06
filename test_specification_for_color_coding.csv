@@ -1,0 +1,7 @@
+﻿"
+Test Case ID",Test Case Name,Input,Expected outcome,TestCase Description
+TC_001,test_number_to_pair_4,Pair number = 4,"Major color = 'White', Minor color = 'Brown'","Verifies that pair number 4 correctly maps to the color pair ('White', 'Brown')."
+TC_002,test_number_to_pair_5,Pair number = 5,"Major color = 'White', Minor color = 'Slate'","Verifies that pair number 5 correctly maps to the color pair ('White', 'Slate')."
+TC_003,test_pair_to_number_black_orange,"Major color = 'Black', Minor color = 'Orange'",Pair number = 12,"Verifies that the color pair ('Black', 'Orange') correctly maps to pair number 12."
+TC_004,test_pair_to_number_violet_slate,"Major color = 'Violet', Minor color = 'Slate'",Pair number = 25,"Verifies that the color pair ('Violet', 'Slate') correctly maps to pair number 25."
+TC_005,test_pair_to_number_red_orange,"Major color = 'Red', Minor color = 'Orange'",Pair number = 7,"Verifies that the color pair ('Red', 'Orange') correctly maps to pair number 7."
